@@ -1,0 +1,21 @@
+# textdomain: simple_chat
+
+
+### cmd_help.lua ###
+
+<command>=<Kommando>
+Commands for =Kommanden für 
+Description: =Beschreibung: 
+Helpsystem for =Hilfssystem für 
+Name: =Name: 
+No entry in help for command <=Kein Eintrag in der Hilfe für Kommande <
+Parameter: =Parameter: 
+Shows you the entire help for =Zeigt dir die gesamte Hilfe für 
+Shows you the help for = Zeigt dir die Hilfe für 
+Usage: =Bedienung:
+command=Kommando
+found.=gefunden.
+
+### init.lua ###
+
+Gives Simple_Chat a command with or without Parameter.=Gibt Simple_Chat ein Kommando mit oder ohne Parameter.
